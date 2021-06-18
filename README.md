@@ -31,5 +31,5 @@ log.getInstance().printTraceList()
 log.getInstance().clear()
 
 // 重放调用栈
-log.getInstance()replay()
+log.getInstance().replay()
 ```
